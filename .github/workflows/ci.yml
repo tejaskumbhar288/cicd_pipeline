@@ -33,3 +33,4 @@ jobs:
     - name: Build
       run: |
         echo "Building the Python application..."  # Add any build steps here, if needed
+        echo "Done Successfully"
